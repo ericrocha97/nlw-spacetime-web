@@ -3,7 +3,5 @@ interface ButtonProps {
 }
 
 export function Button(props: ButtonProps) {
-  return (
-    <button style={{ color: '#F00' }}>{props.title}</button>
-  )
+  return <button style={{ color: '#F00' }}>{props.title}</button>
 }
