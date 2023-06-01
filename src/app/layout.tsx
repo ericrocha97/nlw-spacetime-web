@@ -12,7 +12,7 @@ import { Profile } from '@/components/Profile'
 import { SignIn } from '@/components/SignIn'
 import { Copyright } from '@/components/Copyright'
 
-const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto' })
+const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto-flex' })
 
 const baiJamjuree = BaiJamjuree({
   subsets: ['latin'],
