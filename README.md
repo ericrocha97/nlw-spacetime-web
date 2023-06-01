@@ -1,4 +1,6 @@
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ericrocha-dev_nlw-spacetime-web)](https://sonarcloud.io/summary/new_code?id=ericrocha-dev_nlw-spacetime-web)
+# SpaceTime
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=ericrocha97_nlw-spacetime-web)](https://sonarcloud.io/summary/new_code?id=ericrocha97_nlw-spacetime-web)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
