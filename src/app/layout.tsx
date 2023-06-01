@@ -12,6 +12,7 @@ import { Profile } from '@/components/Profile'
 import { SignIn } from '@/components/SignIn'
 import { Copyright } from '@/components/Copyright'
 
+// Carregando fontes
 const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto-flex' })
 
 const baiJamjuree = BaiJamjuree({
